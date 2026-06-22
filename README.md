@@ -1,7 +1,7 @@
 # Combodavo
 Generador de combos
 
-git clone https://github.com/pruebitadeamor/Combodavo
+git clone https://github.com/pruebitadeamor/combodavo
 
 ls
 
