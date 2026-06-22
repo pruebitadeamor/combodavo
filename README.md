@@ -5,8 +5,8 @@ git clone https://github.com/pruebitadeamor/combodavo
 
 ls
 
-cd pruebitadeamor
+cd combodavo
 
 ls
 
-python3 combodavo.py
+python combodavo.py
